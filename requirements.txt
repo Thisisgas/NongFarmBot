@@ -1,0 +1,9 @@
+Flask
+gunicorn
+requests
+wikipedia
+line-bot-sdk
+pandas
+googletrans
+pika==1.1.0
+paho-mqtt
