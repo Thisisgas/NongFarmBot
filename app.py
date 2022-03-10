@@ -18,8 +18,7 @@ import pika, os
 
 app = Flask(__name__)
 
-lineaccesstoken = 'ZA3XjQvmbXgbtm4OiYfFA3021Aw0aX42I65iPn5DP5Q6a4O8yRrL1oTZzrrsJ/0Ew6n6YoVhKk21OG9n+Usue5KR1skh7uYtC+rQDNTLqvKYjqcUhVvoYCvHEZwbu0uvqbxYzIuqPkys2ZfWmTQTqgdB04t89/1O/w1cDnyilFU='
-lineaccesstoken = '70ec67cab2243af4f51c25e882136ca7'
+lineaccesstoken = 'qO8wBr70W/QMoC8SOVxEJP9d96Celz5OhpLAB/s/0Sez9mtNc3hOunsuTlYeDgtQbgTQwox0NnGB0Y+iV1GQDFD6YHTHxrgs8qJrEufc3q08wBTxEuWXWcOOe0e/nSKaAwGB8uFbPE6fdEFLbc9wjAdB04t89/1O/w1cDnyilFU='
 line_bot_api = LineBotApi(lineaccesstoken)
 
 ####################### new ########################
